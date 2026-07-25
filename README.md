@@ -30,7 +30,7 @@ A real-time computer vision application that helps users maintain healthy sittin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vaishnavib17/Office-Posture-Monitor.git
+git clone https://github.com/shakyamtech/pose-guard-.git
 cd Office-Posture-Monitor
 ```
 
@@ -69,6 +69,6 @@ When poor posture is detected continuously for a short period, the application d
 
 ## 👩‍💻 Author
 
-**Vaishnavi Bagmar**
+**Mahesh Shakya** ([@shakyamtech](https://github.com/shakyamtech))
 
 If you found this project interesting, feel free to star ⭐ the repository or share your feedback.
