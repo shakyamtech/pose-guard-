@@ -1,0 +1,6 @@
+{
+  "name": "Office Posture Monitor",
+  "description": "A real-time webcam-based computer vision application that monitors sitting posture, draws a pose skeleton, and alerts you with visual and audio cues when bad posture is detected.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
